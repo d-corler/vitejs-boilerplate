@@ -29,6 +29,6 @@
     "stylelint-config-standard": "^20.0.0",
     "stylelint-processor-html": "^1.0.0",
     "typescript": "^3.9.7",
-    "vite": "^1.0.0-rc.1"
+    "vite": "^2.9.13"
   }
 }
